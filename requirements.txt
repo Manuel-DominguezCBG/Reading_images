@@ -1,0 +1,6 @@
+numpy==1.19.4
+jupyter_core==4.7.0
+pytesseract==0.3.7
+Pillow==6.2.0
+matplotlib==3.3.4 
+jupyter==1.0.0
