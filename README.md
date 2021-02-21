@@ -17,7 +17,7 @@ I recommend you set up a virtual environment if you want to use this script, so 
 
        `conda activate imaging_processing`
 
-    This activates the virtual environment. You will need to do it every time you want to work on your code. For adittional inf click [here] (https://docs.python.org/3/library/venv.html) for non-user Conda. And [here] (https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for users Conda. 
+    This activates the virtual environment. You will need to do it every time you want to work on your code. For adittional inf click [here](https://docs.python.org/3/library/venv.html) for non-user Conda. And [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for users Conda. 
      
 
 3. Install the required python modules. To do this, you can use the requirements.txt file from the repository. Something like:
