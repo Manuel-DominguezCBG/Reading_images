@@ -11,7 +11,7 @@ I recommend you set up a virtual environment if you want to use this script, so 
 
 1. Create the environment with a command like this:  
 
-    `conda create --name imaging_processing`
+        `conda create --name imaging_processing`
 
 2. Activate environment:
 
@@ -23,6 +23,7 @@ I recommend you set up a virtual environment if you want to use this script, so 
 3. Install the required python modules. To do this, you can use the requirements.txt file from the repository. Something like:
 
     `python3 -m pip install -r requirements.txt`
+
     This might take a few minutes. Go and prepare a cup of tea in the mean time 
 
 4. Run the test script to verify that everything is installed and ready to go:
