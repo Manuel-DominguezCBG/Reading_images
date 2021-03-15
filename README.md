@@ -30,4 +30,4 @@ I recommend you set up a virtual environment if you want to use this script, so 
     
 	`python3 test_installation.py`
 
-Done
+5. Now go to the Jupyter Notebook and follow the instruction.
